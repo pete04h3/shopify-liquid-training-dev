@@ -1,0 +1,11 @@
+.announcement-bar {
+  background-color: rgb(0, 0, 0);
+}
+
+.announcement-bar__message {
+  color: whitesmoke;
+}
+
+.banner__box {
+  display: none;
+}
