@@ -2254,7 +2254,6 @@ product-info .loading-overlay:not(.hidden) ~ *,
 
 /* section-announcement-bar */
 .announcement-bar {
-  background: red;
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
   color: rgb(var(--color-foreground));
 }
