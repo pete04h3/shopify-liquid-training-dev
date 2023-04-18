@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our greenery",
+            "text": "Welcome to Verdura",
             "text_alignment": "center",
             "color_scheme": "background-2",
             "link": ""
